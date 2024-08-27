@@ -6,7 +6,7 @@ export default [
         tillDate: "30 JUN, 2013",
         country: "UAE",
         image: "../images/sharjah.jpg",
-        link: "https://goo.gl/maps/4F2XJ4V7b5H2",
+        link: "https://maps.app.goo.gl/uk9W9xQCUeEGyDbv6",
         desc: `Sharjah is a city that offers a beautiful blend of tradition and modernity. The cultural 
         heritage here is rich, with museums, art galleries, and traditional Arab architecture that 
         takes you back in time. Walking through the streets felt like exploring a living museum. The 
@@ -21,7 +21,7 @@ export default [
         tillDate: "5 JUN, 2024",
         country: "INDIA",
         image: "../images/kodai.jpg",
-        link: "https://goo.gl/maps/3F2Xf5f1RvPzShPZ7",
+        link: "https://maps.app.goo.gl/3eDZNfVPzSDanDQu9",
         desc: `Kodaikanal truly lives up to its name as the 'Princess of Hill stations.' 
         The misty hills and cool breezes were a breath of fresh air, quite literally! 
         The serene lakes, especially the star-shaped Kodaikanal Lake, were perfect for 
@@ -36,7 +36,7 @@ export default [
         tillDate: "12 SEP, 2017",
         country: "INDIA (HIMACHAL PRADESH)",
         image: "../images/img1.jpg",
-        link: "https://goo.gl/maps/UbM5GPr9JqL2",
+        link: "https://maps.app.goo.gl/RmGZ7bqy4NWPezhg7",
         desc: `Baijnath is like a hidden gem in the Kangra Valley. The ancient Shiva temple 
         here, with its intricate carvings and peaceful ambiance, felt like a spiritual 
         retreat. The surrounding Himalayan scenery was simply breathtaking, with 
@@ -51,7 +51,7 @@ export default [
         tillDate: "17 JAN, 2013",
         country: "INDIA",
         image: "../images/img3.jpg",
-        link: "https://goo.gl/maps/X5F7V5J4kY8Z",
+        link: "https://maps.app.goo.gl/YD1eLkcjzS4XiHik9",
         desc: `New Delhi is a vibrant city that offers a rich tapestry of history, culture, and modernity. 
         The grand monuments like India Gate and Qutub Minar tell tales of a bygone era, while the bustling 
         markets of Chandni Chowk and Connaught Place keep the energy alive. The food here is simply out of 
@@ -65,7 +65,7 @@ export default [
         tillDate: "17 OCT, 2021",
         country: "INDIA",
         image: "../images/chennai.jpg",
-        link: "https://goo.gl/maps/Y7F3X2Q5vJ9T",
+        link: "https://maps.app.goo.gl/5AxGyPiVYiM75TTa8",
         desc: `Chennai is where tradition meets the modern world. The historic temples, like the Kapaleeshwarar 
         Temple, stand tall amidst the bustling city, offering a peaceful retreat from the daily grind. The city's 
         vibrant arts scene, with its music and dance performances, is a cultural delight. And the beaches – Marina 
@@ -79,7 +79,7 @@ export default [
         tillDate: "16 MAY, 2016",
         country: "INDIA",
         image: "../images/munnar.jpg",
-        link: "https://goo.gl/maps/U8j3V3x6B4G8",
+        link: "https://maps.app.goo.gl/tCc5KnTMbh5aXjY37",
         desc: `Munnar is where nature unfolds in its most pristine form. The sprawling tea 
         plantations with their verdant greens were a sight for sore eyes. I could spend 
         hours just walking through the tea gardens, inhaling the fresh mountain air. The 
@@ -94,7 +94,7 @@ export default [
         tillDate: "22 OCT, 2010",
         country: "UAE",
         image: "../images/dubai.jpg",
-        link: "https://goo.gl/maps/7j9oM6Aq5vQ2",
+        link: "https://maps.app.goo.gl/NRgRzJgsDL5xpWoX8",
         desc: `Dubai is the city where modernity meets tradition in the most fascinating way. 
         The towering skyscrapers like the Burj Khalifa left me in awe, but it was the 
         traditional souks that really stole my heart. The gold, the spices, the textiles – 
@@ -109,7 +109,7 @@ export default [
         tillDate: "28 MAR, 2013",
         country: "SINGAPORE",
         image: "../images/singapore.jpg",
-        link: "https://goo.gl/maps/Y6L9V9Fh1LJ2",
+        link: "https://maps.app.goo.gl/KdgVBJU416VzTS2U9",
         desc: `Singapore is like a futuristic city with a deep respect for its roots. Walking 
         through Marina Bay Sands and then heading over to Chinatown felt like stepping 
         between two different worlds. The gardens at Gardens by the Bay were something 
@@ -126,7 +126,7 @@ export default [
         tillDate: "15 DEC, 2017",
         country: "INDIA (UTTARAKHAND)",
         image: "../images/kausani.jpg",
-        link: "https://goo.gl/maps/J8X1J9L7nR1",
+        link: "https://maps.app.goo.gl/6SZ3GRK1iRYfWFax8",
         desc: `Kausani is often called the 'Switzerland of India,' and for good reason. The panoramic 
         views of the snow-capped Himalayas from here are nothing short of spectacular. Waking up 
         to the sight of the sun casting its golden glow on the peaks is something I’ll never forget. 
@@ -142,7 +142,7 @@ export default [
         tillDate: "18 NOV, 2011",
         country: "OMAN",
         image: "../images/oman.jpg",
-        link: "https://goo.gl/maps/N6L7M7J6vJ3J",
+        link: "https://maps.app.goo.gl/fDvz9PGK22tFhGmz7",
         desc: `Oman is a land of stunning contrasts. From the vast, sweeping deserts where the 
         sand dunes seem to stretch endlessly, to the rugged mountains that rise dramatically 
         from the earth, it's a place where nature's grandeur is on full display. The coastlines 
@@ -157,7 +157,7 @@ export default [
         tillDate: "7 NOV, 2010",
         country: "UAE",
         image: "../images/abudhabi.jpg",
-        link: "https://goo.gl/maps/2X5V5T4F7gM2",
+        link: "https://maps.app.goo.gl/Hx9bTceaGeCEaum46",
         desc: `Abu Dhabi, the capital of the UAE, is a city where luxury meets tradition. The grandeur 
         of the Sheikh Zayed Grand Mosque left me absolutely speechless – it’s a marvel of modern 
         Islamic architecture. The city also offers serene desert landscapes that contrast beautifully 
@@ -173,7 +173,7 @@ export default [
         tillDate: "22 MAR, 2013",
         country: "INDIA",
         image: "../images/jaipur.jpg",
-        link: "https://goo.gl/maps/x8P1Yy3R8Qp",
+        link: "https://maps.app.goo.gl/TYHEfRygLW4Rvmev9",
         desc: `Jaipur, the 'Pink City,' is a royal wonderland. The majestic palaces like Hawa Mahal and City Palace 
         are a peek into Rajasthan's royal past. The forts, especially Amber Fort, offer stunning views of the city 
         and the surrounding Aravalli hills. The vibrant bazaars are a treasure trove of colorful textiles, jewelry, and 
@@ -187,7 +187,7 @@ export default [
         tillDate: "12 MAY, 2013",
         country: "INDIA",
         image: "../images/shimla.jpg",
-        link: "https://goo.gl/maps/4R9Sj8xfS8L2",
+        link: "https://maps.app.goo.gl/CZUHjebsbt3S7dof6",
         desc: `Shimla, often referred to as the 'Queen of Hills,' is a picturesque hill station with breathtaking 
         views of the Himalayas. The colonial architecture, especially at the Viceregal Lodge, transports you back 
         to the British era. Walking along the Mall Road with the cool mountain breeze was a refreshing experience. 
